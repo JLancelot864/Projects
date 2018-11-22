@@ -104,7 +104,7 @@ while play:
             if again.lower() == 'y':
                 print('restarting')
             elif again.lower() == 'n':
-                print('Bye have a good time!!')
+                print('Bye have a good time!!, but why would you not want to play again this game is awesome??????')
                 play = False
             else:
                 print('Not a valid anser, so... see ya!')
